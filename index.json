@@ -489,10 +489,6 @@
       "sha1": "2e54ad133edc47caa040aa0d37649c3d099d5d52"
     },
     {
-      "path": "content/mods/more-sounds.json",
-      "sha1": "7bb8ab6f62a6074c37dab78a28dc8b17368ce69f"
-    },
-    {
       "path": "content/mods/moreculling.json",
       "sha1": "51646bac92d67a45e0680dbecbac070b5aedd7a4"
     },
@@ -575,10 +571,6 @@
     {
       "path": "content/mods/quick-pack.json",
       "sha1": "7fc5b31840b7313b7896ccf8c7f646742585aaf7"
-    },
-    {
-      "path": "content/mods/radium.json",
-      "sha1": "121920a56681b197b817840a4fc05ef90d172e1e"
     },
     {
       "path": "content/mods/ranged-weapon-api.json",

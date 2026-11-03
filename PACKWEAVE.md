@@ -1,6 +1,6 @@
 # UNIX$like.mc
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 193 mods (14 dependencies), 6 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.265**, 191 mods (14 dependencies), 6 resource packs, 1 shader
 
 ## Contents
 
@@ -128,7 +128,6 @@
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.7.2`
 - [More Culling](https://modrinth.com/project/moreculling) `1.0.11`
-- [More Sounds](https://modrinth.com/project/more-sounds) `1.21.x-0.3.0-neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [My Nether's Delight](https://modrinth.com/project/my-nethers-delight) `1.10.4.1`
 - [Neo Bee Fix](https://modrinth.com/project/neo-bee-fix) `2.0.1`
@@ -148,7 +147,6 @@
 - [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `21.1.66`
 - [Quark](https://modrinth.com/project/quark) `4.1-488`
 - [quick pack](https://modrinth.com/project/quick-pack) `neoforge-1.5.1+1.21.1`
-- [Radium](https://modrinth.com/project/radium) `0.13.1`
 - [Reap Mod](https://modrinth.com/project/reap-mod) `neoforge-1.21.1-1.1.2`
 - [Reconnectible Chains](https://modrinth.com/project/reconnectible-chains) `2.4.4+1.21.1-neoforge`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
