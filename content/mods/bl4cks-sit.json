@@ -1,0 +1,23 @@
+{
+  "name": "Sit",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "VKXzIykF",
+      "slug": "bl4cks-sit",
+      "versionId": "DpfxOIrO",
+      "versionNumber": "v1.4",
+      "filename": "sit-1.21.1-1.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/VKXzIykF/versions/DpfxOIrO/sit-1.21.1-1.4.jar",
+      "sha1": "5e9b0c4ee084770f8757bf53c2ecae19d382f7ed",
+      "sha512": "573dfea3d51110bdeac447b4e246ec631e33c2c91a934e5f6e71bb8fa7c048b5514e08536109a0d9b8d31692fed05e76e9f28fe12b43723fccb94dcc6182fd7a",
+      "fileSize": 14031
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "EclipseUI",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "99cGtHRy",
+      "slug": "eclipseui",
+      "versionId": "z73ovNwy",
+      "versionNumber": "1.0.5+mc1.21.1-neoforge",
+      "filename": "EclipseUI-neoforge-1.0.5-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/99cGtHRy/versions/z73ovNwy/EclipseUI-neoforge-1.0.5-neoforge-1.21.1.jar",
+      "sha1": "1e6456824ef77913232da657c123038235d2a934",
+      "sha512": "d854fb8db4d7232673aa8d7e175f5c3abd071392fbe90a9b48a29a02ba199994c4224f7f671d04fe59f739962eff9ed61cc872364df97c2cf68b3c13e2c26fb0",
+      "fileSize": 1511444
+    }
+  },
+  "dependents": [
+    "Si9Uim4y"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

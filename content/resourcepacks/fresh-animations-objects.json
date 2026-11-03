@@ -1,0 +1,23 @@
+{
+  "name": "Fresh Animations: Objects",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "23O9JVMV",
+      "slug": "fresh-animations-objects",
+      "versionId": "AIGgXNdl",
+      "versionNumber": "2.1.2",
+      "filename": "FA+Objects-v2.1.2.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/23O9JVMV/versions/AIGgXNdl/FA%2BObjects-v2.1.2.zip",
+      "sha1": "bea6b91e4234b7223010d7ac248123d0398e7aa2",
+      "sha512": "61b76ed37e5ecfc4b5d25c545b011bb5bb59c49c97733d0f8b3afa725c886ed82e787d177df068f7e2fb3d5bb6fc253c5822d833658ff3ba48bd53b5c6c1ed21",
+      "fileSize": 142277
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

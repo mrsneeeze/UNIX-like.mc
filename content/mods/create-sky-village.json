@@ -1,0 +1,23 @@
+{
+  "name": "Create: Sky Village",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1sKEbgoN",
+      "slug": "create-sky-village",
+      "versionId": "W6ckOMnh",
+      "versionNumber": "0.0.38",
+      "filename": "create_sky_village-0.0.38 NeoForge 1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1sKEbgoN/versions/W6ckOMnh/create_sky_village-0.0.38%20NeoForge%201.21.1.jar",
+      "sha1": "35ff34bab02e1d9e0a1930737664b653997bd593",
+      "sha512": "e535c100f16d4c3a0e7b3bba3e210b2dd6388504130ebabeb5f64b206474dbfd7c9b75388b6175e07944ada4d88dc51042f066a6094a40ab41374c8740a157de",
+      "fileSize": 3268910
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

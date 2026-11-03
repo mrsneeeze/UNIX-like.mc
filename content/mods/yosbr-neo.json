@@ -1,0 +1,23 @@
+{
+  "name": "Your Options Shall Be Neoforged (YOSBR)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1Q1Lbl0G",
+      "slug": "yosbr-neo",
+      "versionId": "PsfpGPE3",
+      "versionNumber": "0.1.2.1",
+      "filename": "yosbr-neo-0.1.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1Q1Lbl0G/versions/PsfpGPE3/yosbr-neo-0.1.2.1.jar",
+      "sha1": "98944e3185a405503aeab35703e209dcd4d734d6",
+      "sha512": "9774831294581300041ead49c92e368753bbfb52a0cdcc373f53e8c80a019daca441a0d8fc1e8da83d52d5a2f70da72992f83727c8be257d51049b92427e934d",
+      "fileSize": 62091
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

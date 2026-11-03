@@ -1,0 +1,23 @@
+{
+  "name": "Cerulean",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "dv57xmf9",
+      "slug": "cerulean-advancements",
+      "versionId": "i5PXO3P7",
+      "versionNumber": "neoforge-1.21.1-1.0.0",
+      "filename": "cerulean-neoforge-1.0.0-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/dv57xmf9/versions/i5PXO3P7/cerulean-neoforge-1.0.0-1.21.1.jar",
+      "sha1": "f810a8ab7efd707500da4f153a5a64843edf4aac",
+      "sha512": "f9808b360746f691765d422b1df512c7d627ef58a1c03ad75bd12f8d847c1f506e164390090fe9fd8d5eaa14f85bb274510db63d1ce27baca4624a1dc2aa3ba7",
+      "fileSize": 340526
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

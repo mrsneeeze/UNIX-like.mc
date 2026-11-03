@@ -1,0 +1,23 @@
+{
+  "name": "Just Enough Resources (JER)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "uEfK2CXF",
+      "slug": "just-enough-resources-jer",
+      "versionId": "T9VecgxP",
+      "versionNumber": "1.6.0.60",
+      "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.60.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uEfK2CXF/versions/T9VecgxP/JustEnoughResources-NeoForge-1.21.1-1.6.0.60.jar",
+      "sha1": "387f7f2213ec3b62a9e34181191f145de13a446b",
+      "sha512": "521e9c893ac5a798ee170bbf6583f8c9f1e02738d0d169419cb1616baf784e16966279ada22fa195b584032ff7e1126b2b8f17c4632242ccee668b857c5df7ab",
+      "fileSize": 292430
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Updating World Icon",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ZlX3EVmE",
+      "slug": "updating-world-icon",
+      "versionId": "qEFip2XZ",
+      "versionNumber": "1.0.1",
+      "filename": "Updating World Icon-neoforge-1.21.1-1.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ZlX3EVmE/versions/qEFip2XZ/Updating%20World%20Icon-neoforge-1.21.1-1.0.1.jar",
+      "sha1": "e90ca730151365b1a286759e7824eac6a7536d08",
+      "sha512": "deb739557f9edc3eadafb247b1aca04504b9e314e0f3344f8ec7846a2c363e3a40718a26f958da93bd03c2556c8f070add1c69d32d33b8fb9419cdd2c881ff59",
+      "fileSize": 876758
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

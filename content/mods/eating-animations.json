@@ -1,0 +1,23 @@
+{
+  "name": "Eating Animations",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "X8CISwXp",
+      "slug": "eating-animations",
+      "versionId": "D7saUVV5",
+      "versionNumber": "6.0.1",
+      "filename": "eatinganimation-1.21.0-6.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/X8CISwXp/versions/D7saUVV5/eatinganimation-1.21.0-6.0.1.jar",
+      "sha1": "68f276dc8cf57658b0afc2112c6ee63325989e02",
+      "sha512": "1c2eacc647be8256d4a3f7caec9d13c974881e70819d184480294bff96f220718b2a223201c3146f8af69e04d3907012492ed9a488eb81463e9535a3f799a2a3",
+      "fileSize": 289863
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

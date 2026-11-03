@@ -1,0 +1,27 @@
+{
+  "name": "More RPG Library",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Wkc3lwHo",
+      "slug": "more-rpg-library",
+      "versionId": "Td3qABfI",
+      "versionNumber": "2.8.1+1.21.1-neoforge",
+      "filename": "mrpg-lib-neoforge-2.8.1+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Wkc3lwHo/versions/Td3qABfI/mrpg-lib-neoforge-2.8.1%2B1.21.1.jar",
+      "sha1": "b6b017c46ef2ab4ed9faf93218fe7251602b45da",
+      "sha512": "61b17dd057f0150784d63a8660be4afb30cf563ea462bf8e8635a77825254a15f607319cb9e18d521d80d3b661ab0c52fbbdb790ed254a9e35c0dc24f05d3183",
+      "fileSize": 2288423
+    }
+  },
+  "dependents": [
+    "JEvQhsp7",
+    "Zl6rTul9",
+    "ysICqMga"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

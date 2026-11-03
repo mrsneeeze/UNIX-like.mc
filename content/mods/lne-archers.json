@@ -1,0 +1,23 @@
+{
+  "name": "LNE Archers Add-On",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Zl6rTul9",
+      "slug": "lne-archers",
+      "versionId": "ZRmE8tjd",
+      "versionNumber": "1.3.0+1.21.1-neoforge",
+      "filename": "lne_archers-neoforge-1.3.0+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Zl6rTul9/versions/ZRmE8tjd/lne_archers-neoforge-1.3.0%2B1.21.1.jar",
+      "sha1": "d120ab53897bc16657a7c07ad38b292f700acc0e",
+      "sha512": "9185b5e53a37d2d396d3d49d57cd14d7d09f1c644f43758ca8753f9703e69819168f255414f719c5e58efc08109befc08dc899987c888b9d2c3180f89415c24d",
+      "fileSize": 1038387
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

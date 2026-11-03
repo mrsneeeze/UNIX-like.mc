@@ -1,0 +1,23 @@
+{
+  "name": "Reap Mod",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NYHbcKK1",
+      "slug": "reap-mod",
+      "versionId": "oC58wEgs",
+      "versionNumber": "neoforge-1.21.1-1.1.2",
+      "filename": "reap-neoforge-1.21.1-1.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NYHbcKK1/versions/oC58wEgs/reap-neoforge-1.21.1-1.1.2.jar",
+      "sha1": "238f4bd951d927886475d07dc84723674c361cba",
+      "sha512": "a6a5e16dfe591368d37fa68cb632cedacb9aa4a036d2decbe7ed4ab7b3040c3e38dddded5f083a58a68c1c13c13fcf56d8b5931e97b0d1fa65b4c229c3a46b7f",
+      "fileSize": 140550
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

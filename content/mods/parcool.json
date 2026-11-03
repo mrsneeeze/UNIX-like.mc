@@ -1,0 +1,23 @@
+{
+  "name": "ParCool!",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Fsvx2bdR",
+      "slug": "parcool",
+      "versionId": "kMBO0X7s",
+      "versionNumber": "1.21.1-4.0.2.0",
+      "filename": "ParCool-1.21.1-4.0.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Fsvx2bdR/versions/kMBO0X7s/ParCool-1.21.1-4.0.2.0.jar",
+      "sha1": "34f1f737127c523c2f228557caac1b1c14edf0c1",
+      "sha512": "9616bfac6f6385dbb4de46a2db1d0220911cf066559f10aa89b8391412dae9a15faa505626198981233dafd4dd7a37845003143b94eb618ca15643ea33b4fc9b",
+      "fileSize": 1265497
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Bosses'Rise",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "q2bV1Tm1",
+      "slug": "bossesrise",
+      "versionId": "lE9PF6Wp",
+      "versionNumber": "2.1.2",
+      "filename": "block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/q2bV1Tm1/versions/lE9PF6Wp/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+      "sha1": "249a5f2ba43fd341d4a2831691c154d92aa5a12d",
+      "sha512": "9a2b58bd7c15c15f089d87bdd1ac5b8cccaeab6a28518b9a10336e811334aba7e42c9cae7733a5fd7125ebce28554b0dea530cb7f86ecb85617203d948590344",
+      "fileSize": 23943105
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

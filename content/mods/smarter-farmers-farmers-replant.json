@@ -1,0 +1,23 @@
+{
+  "name": "Smarter Farmers (farmers replant)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Bh6ZOMvp",
+      "slug": "smarter-farmers-farmers-replant",
+      "versionId": "odppGdXf",
+      "versionNumber": "1.21-2.2.4",
+      "filename": "smarterfarmers-1.21-2.2.4-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Bh6ZOMvp/versions/odppGdXf/smarterfarmers-1.21-2.2.4-neoforge.jar",
+      "sha1": "49e58b648cfe1e5d6623b1b2c3ce5aca0b8c08df",
+      "sha512": "a79babd2e4fd42823dbbfc6afedd30e57462d693fe255b7e4306023d0567f183196c9b142356b43803ad8e503a386642aa91b9b29835f739c233bce768018d62",
+      "fileSize": 65924
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

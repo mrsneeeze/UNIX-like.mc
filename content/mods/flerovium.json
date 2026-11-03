@@ -1,0 +1,23 @@
+{
+  "name": "Flerovium",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4Rh1Mobu",
+      "slug": "flerovium",
+      "versionId": "PHD5rYo3",
+      "versionNumber": "1.2.0",
+      "filename": "flerovium-neoforge-1.21.1-1.2.0-all.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4Rh1Mobu/versions/PHD5rYo3/flerovium-neoforge-1.21.1-1.2.0-all.jar",
+      "sha1": "09917774048af0ebf7f4d2293f281bfcd3df2fdb",
+      "sha512": "b19e348d01ab4c059b5a5277b4e7caea828a9e2e7d49871ae3a0c495d76a473865126fa6a10a6044f67742221fb3dd1ff25fffc0c85eacac8a52a95adc37824f",
+      "fileSize": 194016
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

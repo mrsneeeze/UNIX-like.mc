@@ -1,0 +1,23 @@
+{
+  "name": "Jade Trades",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "LUl8Wtd9",
+      "slug": "jade-trades",
+      "versionId": "AFtKJr6s",
+      "versionNumber": "1.0.0",
+      "filename": "jade-trades-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/LUl8Wtd9/versions/AFtKJr6s/jade-trades-1.0.0.jar",
+      "sha1": "7f3a06fc92bd9f985b4d60878ca2ef6362bbb5a8",
+      "sha512": "2341dcffda64d14718c0ea9e321b83045279c122cc00346bbc156e4c0005d1f154feaba1573865406bce7da626a9c001bc190a05c47e53db23edc8f00d55a722",
+      "fileSize": 26477
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

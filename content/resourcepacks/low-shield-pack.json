@@ -1,0 +1,23 @@
+{
+  "name": "Low Shield",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "CZrLuVQo",
+      "slug": "low-shield-pack",
+      "versionId": "4LeYKTYX",
+      "versionNumber": "3.1.0",
+      "filename": "Low Shield.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/CZrLuVQo/versions/4LeYKTYX/Low%20Shield.zip",
+      "sha1": "4b843b57dd0883fae0cdfece453ad359e1088d68",
+      "sha512": "3805ba2de77ef24ec9b3837f0374dcd5003db6e2057bbca2719f1649a642547757933df65f3d1e892246a3a9392291957a4f47c37a3e35c5e0d4d322d2191e19",
+      "fileSize": 3930
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

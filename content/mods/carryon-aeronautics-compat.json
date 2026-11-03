@@ -1,0 +1,23 @@
+{
+  "name": "Carry On + Create Aeronautics Compat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MpnDZ1Lx",
+      "slug": "carryon-aeronautics-compat",
+      "versionId": "z7xbAdje",
+      "versionNumber": "1.1.1",
+      "filename": "CarryOnAeroCompat-1.21.1-1.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MpnDZ1Lx/versions/z7xbAdje/CarryOnAeroCompat-1.21.1-1.1.1.jar",
+      "sha1": "fe5f43783baadf3d954493ccf7a0688ede794f1e",
+      "sha512": "93684af538863a276232a8bf2a30a54573334023cff9c0a8290a7ff504c222562c447429bc402e591069a26e6fa20e861e5b438d0ce503d5ecdf385067643ed3",
+      "fileSize": 71561
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

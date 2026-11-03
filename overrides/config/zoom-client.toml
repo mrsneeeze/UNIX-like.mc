@@ -1,0 +1,10 @@
+#When the player is injured, the zoom will exit.
+hurt_exit = true
+#Camera move speed
+# Default: 0.4
+# Range: 0.1 ~ 5.0
+speed = 0.4
+#Camera FOV
+# Default: 90
+# Range: 1 ~ 179
+fov = 90

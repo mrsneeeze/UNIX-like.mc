@@ -1,0 +1,23 @@
+{
+  "name": "Message Arrows",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "RkAAGPxa",
+      "slug": "message-arrows",
+      "versionId": "7V0hf28A",
+      "versionNumber": "1.0.2-Mod",
+      "filename": "message-arrows-1.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/RkAAGPxa/versions/7V0hf28A/message-arrows-1.0.2.jar",
+      "sha1": "febad1082b95ff131c1e7a8979e226de0746d899",
+      "sha512": "353cf24b18acde68d09cc432681f7859a52b375c63902527271747a41630fd9a60ca8c0999e5a7522a4af534cffe4a9b7897929a5f4d0945e0a535d342708646",
+      "fileSize": 10816
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

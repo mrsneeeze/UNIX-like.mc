@@ -1,0 +1,23 @@
+{
+  "name": "Detail Armor Bar Reconstructed",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Si9Uim4y",
+      "slug": "detail-armor-bar-reconstructed",
+      "versionId": "PyPjybBB",
+      "versionNumber": "5.3.3-alpha.1",
+      "filename": "DetailArmorBarReconstructed-5.3.3-alpha.1+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Si9Uim4y/versions/PyPjybBB/DetailArmorBarReconstructed-5.3.3-alpha.1%2B1.21.1-neoforge.jar",
+      "sha1": "c9171e2f87659af808cf04e060521a1f65e0e1a8",
+      "sha512": "bb6986b7e04d8d14f785dd5f19ad3823c5d49093d1474909d1b549b14620059778ce70fe94c695b87b7d9bb49c9c014b87d69c1a546503a298b07a48bca6eafb",
+      "fileSize": 129139
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

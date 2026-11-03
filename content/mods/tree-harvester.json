@@ -1,0 +1,23 @@
+{
+  "name": "Tree Harvester",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "abooMhox",
+      "slug": "tree-harvester",
+      "versionId": "bm39siw0",
+      "versionNumber": "1.21.1-10.4-fabric+forge+neo",
+      "filename": "treeharvester-1.21.1-10.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/abooMhox/versions/bm39siw0/treeharvester-1.21.1-10.4.jar",
+      "sha1": "6421be847bcad47d1e55e60b9606abedc99ed6a3",
+      "sha512": "4369a83ca9012d82de97e2e877654e6d78ad7b50f95bb49abe0f4f172f9ff4ca291dc8d7e0cda5e85fa7d9801027fe2fa438893b664b68211d250975a6ded759",
+      "fileSize": 163007
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

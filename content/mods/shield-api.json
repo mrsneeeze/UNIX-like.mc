@@ -1,0 +1,25 @@
+{
+  "name": "Shield API",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "y9clIFY4",
+      "slug": "shield-api",
+      "versionId": "fgK2cNYi",
+      "versionNumber": "2.2.0-neoforge",
+      "filename": "shield_api-neoforge-2.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/y9clIFY4/versions/fgK2cNYi/shield_api-neoforge-2.2.0.jar",
+      "sha1": "dfbb73a2a92bac5c06f6b0a747a6660a3e04ed0b",
+      "sha512": "8c4e5ade7539bc8b27bc456b5a00581472b7ff255a7e0ec828d32fd9aa0addc4245c78f7537565f8517852bf00b477837b0fbb1953e89075e5906e9c71dc22f2",
+      "fileSize": 45428
+    }
+  },
+  "dependents": [
+    "FxXkHaLe"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

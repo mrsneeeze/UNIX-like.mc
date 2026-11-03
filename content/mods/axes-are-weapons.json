@@ -1,0 +1,23 @@
+{
+  "name": "Axes Are Weapons",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1jvt7RTc",
+      "slug": "axes-are-weapons",
+      "versionId": "2bqCbUXm",
+      "versionNumber": "1.10.2-neoforge-1.21",
+      "filename": "AxesAreWeapons-1.10.2-neoforge-1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1jvt7RTc/versions/2bqCbUXm/AxesAreWeapons-1.10.2-neoforge-1.21.jar",
+      "sha1": "8c2ea92279ccc6bfed5288854e7b6d568bd84160",
+      "sha512": "d4b635c4b764238b3324e6ee6fb3d7740ffdbcdbdf1bc0b7cdc5f82e33bcfe4f69dd627393465093bc8b685caecd791f510208489a1d375849b19aaf9fd6a551",
+      "fileSize": 36026
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

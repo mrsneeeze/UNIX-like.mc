@@ -1,0 +1,23 @@
+{
+  "name": "Companion 🐕",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4w0EzGRW",
+      "slug": "companion",
+      "versionId": "PfXPQBGy",
+      "versionNumber": "6.3.0+neoforge",
+      "filename": "Companion-1.21.1-NeoForge-6.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4w0EzGRW/versions/PfXPQBGy/Companion-1.21.1-NeoForge-6.3.0.jar",
+      "sha1": "6e99ea2769918ba330e4d936068ab2b4de1d141c",
+      "sha512": "bdc3b9d19c3650366404a6c4e0959b19ce9759a0861b5df05262eaf9af3ae6b0ed931dfe62b9cf61fe2b92f21bd9ea320822512af8cd27636edcc0010b2ddc7c",
+      "fileSize": 45409
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

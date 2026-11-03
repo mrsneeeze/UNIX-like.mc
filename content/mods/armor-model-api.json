@@ -1,0 +1,28 @@
+{
+  "name": "Armor Model API",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "onz2NN2n",
+      "slug": "armor-model-api",
+      "versionId": "QRkmKYGJ",
+      "versionNumber": "1.1.0+1.21.1-neoforge",
+      "filename": "armor_model_api-neoforge-1.1.0+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/onz2NN2n/versions/QRkmKYGJ/armor_model_api-neoforge-1.1.0%2B1.21.1.jar",
+      "sha1": "616a2e4578b4b41af2752459fd12b970fa4809c6",
+      "sha512": "01c6d40824aaacbfcf3b57a8e368959f7a16e067dbf397b55e5dd7803bd9e65595b8967c0c1a19dfbbd46e1fb2c7ad2e2adf968509ec8fc1a2e77e8623c61c68",
+      "fileSize": 91856
+    }
+  },
+  "dependents": [
+    "3MKqoGuP",
+    "FxXkHaLe",
+    "NkGaQMDA",
+    "QgooUXAJ"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

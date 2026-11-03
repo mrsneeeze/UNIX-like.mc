@@ -1,0 +1,29 @@
+{
+  "name": "Spell Power Attributes",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "8ooWzSQP",
+      "slug": "spell-power",
+      "versionId": "RFCD8Aio",
+      "versionNumber": "1.6.0+1.21.1-neoforge",
+      "filename": "spell_power-neoforge-1.6.0+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8ooWzSQP/versions/RFCD8Aio/spell_power-neoforge-1.6.0%2B1.21.1.jar",
+      "sha1": "29a1f6bf29db1868b3b22f3a8cf287b26a429ab2",
+      "sha512": "b4f9ae2524783a2f1d4f16da73543f1073e17e7cb66a36235c4b54e74495d3b73892a342478cc760ec4c2bcf046578f3077af31013b48b04a9bde7facd48e281",
+      "fileSize": 222955
+    }
+  },
+  "dependents": [
+    "XvoWJaA2",
+    "vukREL4F"
+  ],
+  "optionalDependents": [
+    "Wkc3lwHo"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

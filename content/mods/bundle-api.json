@@ -1,0 +1,25 @@
+{
+  "name": "Bundle API",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "n8QN6Z1a",
+      "slug": "bundle-api",
+      "versionId": "w5F5wdko",
+      "versionNumber": "1.1.0-neoforge",
+      "filename": "bundle-api-neoforge-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/n8QN6Z1a/versions/w5F5wdko/bundle-api-neoforge-1.1.0.jar",
+      "sha1": "49ea32e2872c9738363eb76a97ce0553bd2ff756",
+      "sha512": "b9775122f35f84a361342b1968ba132ab627d2b253d46e2382283af57f9d3f53e6138bb9afe7b32e992f63317c84ccadb78ec28e2791b5f97dbe9c65e4a5d289",
+      "fileSize": 64124
+    }
+  },
+  "dependents": [
+    "lP9Yrr1E"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

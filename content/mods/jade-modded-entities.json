@@ -1,0 +1,23 @@
+{
+  "name": "Jade Modded Entities",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "GAJkSU0A",
+      "slug": "jade-modded-entities",
+      "versionId": "uOr842aM",
+      "versionNumber": "1.3.1",
+      "filename": "jademoddedentities-neoforge-1.21.1-1.3.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GAJkSU0A/versions/uOr842aM/jademoddedentities-neoforge-1.21.1-1.3.1.jar",
+      "sha1": "db7577bf1f0f2ccc6393e7feec7bb7166004363f",
+      "sha512": "632a49e27bc2e5636e1b282f3c5db48f3955ca95b028ae9a376259708d897f6f5ff8e49492acdeb6cab4d02dc1efa2f517823130836fd95bcd32293dcc1cea3a",
+      "fileSize": 123091
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

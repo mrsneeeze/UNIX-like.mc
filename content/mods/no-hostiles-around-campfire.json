@@ -1,0 +1,23 @@
+{
+  "name": "No Hostiles Around Campfire",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "EJqeyaVz",
+      "slug": "no-hostiles-around-campfire",
+      "versionId": "8yVWn6i5",
+      "versionNumber": "1.21.1-8.1-fabric+forge+neo",
+      "filename": "nohostilesaroundcampfire-1.21.1-8.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/EJqeyaVz/versions/8yVWn6i5/nohostilesaroundcampfire-1.21.1-8.1.jar",
+      "sha1": "7ed4bcff0a7d928a67f9cbabe145ed551b273b00",
+      "sha512": "5ca107f360090926a51f23e1f499679441075c15fb98f1419e210921e20acf7731b550c4af744e0ec8575b5530f645757c887e2d627d0469682168bea6a48b41",
+      "fileSize": 67417
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Sophisticated Core",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "nmoqTijg",
+      "slug": "sophisticated-core",
+      "versionId": "nMrwTiyz",
+      "versionNumber": "1.21.1-1.5.25.2451",
+      "filename": "sophisticatedcore-1.21.1-1.5.25.2451.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nmoqTijg/versions/nMrwTiyz/sophisticatedcore-1.21.1-1.5.25.2451.jar",
+      "sha1": "ea3a48771f9dcd13d123b88607cafe7f5cd06c0b",
+      "sha512": "37a3dc0851b7bbf8aa2567965f682f05eeb6856d9408b8615ba1a483f93079f50a7c7f62b8034cfa090df303202ed28f425eb56e607b41484aef7b81195c1803",
+      "fileSize": 1830529
+    }
+  },
+  "dependents": [
+    "TyCTlI4b"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

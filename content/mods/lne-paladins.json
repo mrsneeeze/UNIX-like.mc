@@ -1,0 +1,23 @@
+{
+  "name": "LNE Paladins & Priests Add On",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ysICqMga",
+      "slug": "lne-paladins",
+      "versionId": "M37S70Ed",
+      "versionNumber": "1.3.0+1.21.1-neoforge",
+      "filename": "lne_paladins-neoforge-1.3.0+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ysICqMga/versions/M37S70Ed/lne_paladins-neoforge-1.3.0%2B1.21.1.jar",
+      "sha1": "5868cdfddb9f2640ddc90c409aa13de7406c4501",
+      "sha512": "7ef3fc11207bee96ead36f384a06c3f7f558b204e762f5c0b99f7b063ae867ddc578bd7c7841466ce72b5246c4fc2946ce87f5b67e643c96d43a939eac0b3029",
+      "fileSize": 695025
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

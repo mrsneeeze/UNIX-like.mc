@@ -1,0 +1,23 @@
+{
+  "name": "Potion Stacks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "CQTUbhIo",
+      "slug": "potion-stacks",
+      "versionId": "bnlB3gWi",
+      "versionNumber": "1.0.0",
+      "filename": "potionstacks-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/CQTUbhIo/versions/bnlB3gWi/potionstacks-1.0.0.jar",
+      "sha1": "d6796879150f7e957dec085d9b4991feca104a87",
+      "sha512": "c62d1f602d8072b9f4b746525fc8a2b69f6a585dfeeae749de202cd5fc6dc67225954a930efee154671b42c97a7c7c224d6ca052a3d0c78071ec990b8f9ba1f4",
+      "fileSize": 6763
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

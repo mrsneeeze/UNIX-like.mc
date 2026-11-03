@@ -1,0 +1,23 @@
+{
+  "name": "Free camera API",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "KCR6bnbY",
+      "slug": "free-camera-api",
+      "versionId": "YPlk2vkI",
+      "versionNumber": "3.2.0",
+      "filename": "free_camera_api-neo-1.21.1-3.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/KCR6bnbY/versions/YPlk2vkI/free_camera_api-neo-1.21.1-3.2.0.jar",
+      "sha1": "cce70f94640372e3ebdae128c9f72bbf0929ec9f",
+      "sha512": "fa3a83d8a0fa6601b3833e671ca81c0ad63ab84e3537b3b7ac2d52f33f86f3a671b9fb4f51beb12cc177787c673fc9a9007c9eed22466867731574db1774d8ad",
+      "fileSize": 1035388
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}
