@@ -1198,7 +1198,7 @@
     },
     {
       "path": "overrides/config/create-server.toml",
-      "sha1": "c09cb676e3a57329162cfac1ad8f3620f48c5b98"
+      "sha1": "9adec6f43332e4c08a3632115114ff91a909b5a7"
     },
     {
       "path": "overrides/config/create_cardboarded_conveynience-common.toml",
@@ -1830,7 +1830,7 @@
     },
     {
       "path": "overrides/config/simulated-server.toml",
-      "sha1": "1ab3343ed4a74008ad939c208a2536d7b3e79fe0"
+      "sha1": "21c3e3c60684484178c12ccaafd7addb399d43f4"
     },
     {
       "path": "overrides/config/sliceanddice-client.toml",
@@ -2002,7 +2002,7 @@
     },
     {
       "path": "overrides/config/voicechat/voicechat-server.properties",
-      "sha1": "9025f82beda279425f44cbd069f6889d31f0e88b"
+      "sha1": "7b1dc1097891c93591438ead405c653fb6b1b02c"
     },
     {
       "path": "overrides/config/xaero/lib/client.cfg",

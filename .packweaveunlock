@@ -10,3 +10,7 @@
 # !config/somemod.toml#client.debug
 options.txt
 servers.dat
+config/create-server.toml#schematics.maxSchematicPacketSize
+config/simulated-server.toml#assembly.maxBlocksMoved
+config/simulated-server.toml#assembly.honeyGlueRange
+config/simulated-server.toml#assembly.mergingGlueRange

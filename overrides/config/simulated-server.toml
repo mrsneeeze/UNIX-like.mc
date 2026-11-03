@@ -49,12 +49,12 @@
 	#Maximum amount of blocks in a structure assemble-able by Physics Assemblers, Swivel Bearings, or other means.
 	# Default: 128000
 	# Range: > 1
-	maxBlocksMoved = 128000
+	maxBlocksMoved = 1024000
 	#.
 	#Maximum range in blocks which honey glue may initially be placed
 	# Default: 48
 	# Range: > 1
-	honeyGlueRange = 48
+	honeyGlueRange = 256
 	#.
 	#Maximum range in blocks which merging glue may be placed by items such as slime balls
 	# Default: 4.0
@@ -64,7 +64,7 @@
 	#The amount of ticks that disassembly alignment is allowed to take before failing.
 	# Default: 20
 	# Range: > 5
-	maxDisassemblyTicks = 20
+	maxDisassemblyTicks = 100
 	#.
 	#The maximum amount of degrees a Simulated Contraption is allowed to be tilted to fully disassemble
 	# Default: 4.0
