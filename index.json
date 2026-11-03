@@ -137,16 +137,12 @@
       "sha1": "f19aa4c6bf13922364faaff0d822c5271c5cf52a"
     },
     {
-      "path": "content/mods/create-aeronautics-encased-fluid-pipes.json",
-      "sha1": "52df440c046590892239f269036f2b4c129e6ef0"
-    },
-    {
       "path": "content/mods/create-aeronautics-portable-engine-liquid-fuel.json",
       "sha1": "8564f8f668ff2eeacaa93ac5cd4e8a4559eeb310"
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "39371aec9044b1ce26eb504c4cb2ad2ed2aa8f21"
+      "sha1": "dc78724b0c2a766fa9f063fc1bdd6bb4221997ee"
     },
     {
       "path": "content/mods/create-alloyed.json",
@@ -218,7 +214,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "365e27ee94c97f58e001572821294a47a1bb3912"
+      "sha1": "eec74811b356026c0277cb0835a53f8f056be539"
     },
     {
       "path": "content/mods/curios.json",
@@ -273,10 +269,6 @@
       "sha1": "8ebeddbff89a65145f3a25fdad5d8ff1c55e10a9"
     },
     {
-      "path": "content/mods/ends-delight.json",
-      "sha1": "a37a6bf5098f8117c179a4523a280a79061afec6"
-    },
-    {
       "path": "content/mods/entity-model-features.json",
       "sha1": "1fbf5421e9767cc7d0bef036c70a8b98003bd0fd"
     },
@@ -298,7 +290,7 @@
     },
     {
       "path": "content/mods/farmers-delight.json",
-      "sha1": "67e1e7e4ccfe7794d2250904ce71594437141dd0"
+      "sha1": "5f5a04daeab85eb658c0d284c1d875934de23964"
     },
     {
       "path": "content/mods/fast-ip-ping.json",

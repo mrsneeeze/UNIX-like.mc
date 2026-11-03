@@ -1,6 +1,6 @@
 # UNIX$like.mc
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 195 mods (14 dependencies), 6 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.265**, 193 mods (14 dependencies), 6 resource packs, 1 shader
 
 ## Contents
 
@@ -40,7 +40,6 @@
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
-- [Create Aeronautics: Encased Fluid Pipes](https://modrinth.com/project/create-aeronautics-encased-fluid-pipes) `1.0.7`
 - [Create Aeronautics: Portable Engine Liquid Fuel](https://modrinth.com/project/create-aeronautics-portable-engine-liquid-fuel) `2.0.0`
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
 - [Create Slice & Dice](https://modrinth.com/project/slice-and-dice) `4.3.4`
@@ -72,7 +71,6 @@
 - [EclipseUI](https://modrinth.com/project/eclipseui) `1.0.5+mc1.21.1-neoforge`
 - [Ecologics](https://modrinth.com/project/ecologics) `2.3.9-NeoForge`
 - [End Remastered](https://modrinth.com/project/endrem) `6.3.0`
-- [End's Delight](https://modrinth.com/project/ends-delight) `2.6.1+neoforge.1.21.1`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
 - [Explosive Enhancement: Reforged](https://modrinth.com/project/explosive-enhancement-forge) `1.2.0`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
