@@ -866,7 +866,7 @@
     },
     {
       "path": "overrides/config/DistantHorizons.toml",
-      "sha1": "90226d29a38f7b04e02d6311d3155ada78d53238"
+      "sha1": "5bdd81681ed370b2a7842e1f2e492d231fa8c3af"
     },
     {
       "path": "overrides/config/EndRemastered-NeoForge/Eyes/black_eye.json",
@@ -954,15 +954,15 @@
     },
     {
       "path": "overrides/config/alloyed.toml",
-      "sha1": "c19838083cca9833388f8c69d68bffff3f898b6f"
+      "sha1": "2aeeb434b338dab7ed7cba05e3f93a73f70a0ba4"
     },
     {
       "path": "overrides/config/amendments-client.toml",
-      "sha1": "9f5f78612364785eb72adac325ef4f4caa613727"
+      "sha1": "d5534a3ea79708dfdc8d61e3a70d687e900d80fd"
     },
     {
       "path": "overrides/config/amendments-common.toml",
-      "sha1": "1fdeec033c39afcdc2ac33cd5a63aa50913dac4c"
+      "sha1": "57a1c57c1c82cdc249509ceba75baa8be6466d4f"
     },
     {
       "path": "overrides/config/analogaudio/analogaudio.client.toml",
@@ -990,7 +990,7 @@
     },
     {
       "path": "overrides/config/asynclogger.toml",
-      "sha1": "3b20df1f1a45a050bb0e1418ac1fe364a6b7cc12"
+      "sha1": "d48418a4a07721c0b44b39548a1f05e4a2ee1d8f"
     },
     {
       "path": "overrides/config/asynclogger/default.toml",
@@ -998,7 +998,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "89d20320025696446b4a0afdaca45d6f740d44df"
+      "sha1": "1f1521aa67b744c2e4760f4ca18057e37556b3d1"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -1010,11 +1010,11 @@
     },
     {
       "path": "overrides/config/azimuth-client.toml",
-      "sha1": "7ca01c7625d72b4870090c5e23dbea100ae26afc"
+      "sha1": "7cf9feddb300b6828d20fd3d4864c5edff47e783"
     },
     {
       "path": "overrides/config/azimuth-common.toml",
-      "sha1": "114e5b6881639eba15e1fa91ad316c08f0a848c2"
+      "sha1": "ceb38fbdaa09b93489a7d379f3030f3b53e2d315"
     },
     {
       "path": "overrides/config/badoptimizations.txt",
@@ -1070,7 +1070,7 @@
     },
     {
       "path": "overrides/config/betterpingdisplay-client.toml",
-      "sha1": "8bc2219b2d6ff336ad9b21176d729039de45a431"
+      "sha1": "9be56297600c2e5477a907471d78c822f9cfdd1e"
     },
     {
       "path": "overrides/config/betterstrongholds-neoforge-1_21.toml",
@@ -1102,7 +1102,7 @@
     },
     {
       "path": "overrides/config/bits_n_bobs-common.toml",
-      "sha1": "2a8eb27c998431788b377b6c4589f131e127743c"
+      "sha1": "143860b2dafa8125bb53d0cf78f2369ac22ec2e4"
     },
     {
       "path": "overrides/config/bits_n_bobs-server.toml",
@@ -1122,7 +1122,7 @@
     },
     {
       "path": "overrides/config/c2me.toml",
-      "sha1": "2828b738fd01efbf2a64e7f9590c0d2a7c739df8"
+      "sha1": "4ec50c2d89031004773b2bd84d214c5b7100f1c9"
     },
     {
       "path": "overrides/config/cardboarded_conveynience.json",
@@ -1138,7 +1138,7 @@
     },
     {
       "path": "overrides/config/carryon-common.toml",
-      "sha1": "55d807b4967faa5d76a795429632b9b8976fea6b"
+      "sha1": "21e7e9cf0946700db41b51aa45f030d684819ed7"
     },
     {
       "path": "overrides/config/cbc_equally_opposite-common.toml",
@@ -1242,7 +1242,7 @@
     },
     {
       "path": "overrides/config/create_sky_village-common.toml",
-      "sha1": "691b3c21885ed455b956c0dcafa88a24ab8d2a47"
+      "sha1": "6b3dca2ad81e06fced57dfd66e26ca869d82f976"
     },
     {
       "path": "overrides/config/createbigcannons-client.toml",
@@ -1270,7 +1270,7 @@
     },
     {
       "path": "overrides/config/e4mc/e4mc.toml",
-      "sha1": "e042e1fe2b57638584403507aafb84be6b45c8dc"
+      "sha1": "f0ca8e010d15a954260fc905c2f9a1b9fb50e1c4"
     },
     {
       "path": "overrides/config/easyanvils-client.toml",
@@ -1286,7 +1286,7 @@
     },
     {
       "path": "overrides/config/ecologics-common.toml",
-      "sha1": "44bfdb39ed91cc759b2ed04d98220d6ac3fb79b4"
+      "sha1": "d1205ac5ebc5893270cd680cfd9a05afe99ad40e"
     },
     {
       "path": "overrides/config/emi-accelerator/emi-accelerator.txt",
@@ -1338,7 +1338,7 @@
     },
     {
       "path": "overrides/config/explosiveenhancement.toml",
-      "sha1": "ad3014faee30308f2350465b92a6134c9be5512a"
+      "sha1": "1fa107687a77f862aed80a60c0cb219f63d955d3"
     },
     {
       "path": "overrides/config/exposure-client.toml",
@@ -1354,7 +1354,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "e55ce07339e4fd36f8d8b6a78e82d5c0ae63903a"
+      "sha1": "dfc093aed59ce0ad66f1e909fdde2f4bd4f94e31"
     },
     {
       "path": "overrides/config/fancytoasts/general.json",
@@ -1382,7 +1382,7 @@
     },
     {
       "path": "overrides/config/ferritecore-mixin.toml",
-      "sha1": "a8af962ea8f0698377dba96a722ce21dedcde8cc"
+      "sha1": "117f758af35aac859c535d5d2da96c5747a87aea"
     },
     {
       "path": "overrides/config/firstperson.json",
@@ -1394,15 +1394,15 @@
     },
     {
       "path": "overrides/config/flywheel-client.toml",
-      "sha1": "a6b8e074fa713616371da744b1c4d2ad19024ffc"
+      "sha1": "16e17067e3426d88c81a69d39e7afa6a0bed9c48"
     },
     {
       "path": "overrides/config/fml.toml",
-      "sha1": "5448b202d300702f6b654b522bbd2c39743702c0"
+      "sha1": "9fca24533100755c12e7d1a82f8c524d0a163ff6"
     },
     {
       "path": "overrides/config/free_camera_api-client.toml",
-      "sha1": "2f6a9d99d0aa663a2ed7ce70972c698d8b34da02"
+      "sha1": "33e1d77bf9afbf0af08dc16d5cdd1b19f89aceda"
     },
     {
       "path": "overrides/config/fzzy_config/keybinds.toml",
@@ -1410,7 +1410,7 @@
     },
     {
       "path": "overrides/config/gpu_booster_config.txt",
-      "sha1": "985f9e9d0c05aae029ff9f4fb3aef97ceb5581d0"
+      "sha1": "108edaa85785bc4f97beba64df536951372b5d59"
     },
     {
       "path": "overrides/config/ichunutil/ichunutil-client.toml",
@@ -1474,7 +1474,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "55f5be01dafafcaa0142d5529ace9d76f7120aea"
+      "sha1": "4f074ff2a3e7f394fc3929716d4731ce1e285740"
     },
     {
       "path": "overrides/config/irisflw-client.toml",
@@ -1482,7 +1482,7 @@
     },
     {
       "path": "overrides/config/ixeris.toml",
-      "sha1": "b8c007109144f51b3cdc4ce33ffd2fa1d2d270be"
+      "sha1": "12145c603cd90e56000ef7853e2147f46c7fbfb0"
     },
     {
       "path": "overrides/config/jade/hide-blocks.json",
@@ -1506,27 +1506,27 @@
     },
     {
       "path": "overrides/config/jeed-client.toml",
-      "sha1": "a87a54dc5ab10da763a920fb5ab75539da3836bb"
+      "sha1": "5393eb64e747700beab26780223f0c9703367e46"
     },
     {
       "path": "overrides/config/jei/client/default/jei-client.ini",
-      "sha1": "1cf86d58fe30df29245c6bdeaea7deb3c34869ce"
+      "sha1": "4920613ec2328b4b11b2fc10427c6ad4ae302d17"
     },
     {
       "path": "overrides/config/jei/client/default/jei-colors.ini",
-      "sha1": "a0b5388f559355560719adc93408da864a72d3e8"
+      "sha1": "1044f6310eb4e62253c9d9e1ba3a9313599b310e"
     },
     {
       "path": "overrides/config/jei/client/default/jei-debug.ini",
-      "sha1": "21114b8d222eb2a62d43404e1496664037119b8d"
+      "sha1": "d02dc7d7cf1c8ced3ef1f9253a0bbadb6580d56d"
     },
     {
       "path": "overrides/config/jei/client/default/jei-mod-id-format.ini",
-      "sha1": "a78ca513a5da04416aff948ed306253b15a2710a"
+      "sha1": "6106cc9c99906ea9da4854730887379ec1e8b256"
     },
     {
       "path": "overrides/config/jeresources-common.toml",
-      "sha1": "b02691693bb8b6a4f18fa385b4b102ee00e4566e"
+      "sha1": "9c4ad09b506b29895742d21409c7e7cbb2553254"
     },
     {
       "path": "overrides/config/justenoughbreeding-offsets.json",
@@ -1582,11 +1582,11 @@
     },
     {
       "path": "overrides/config/lootr-client.toml",
-      "sha1": "75d72207fff7559688720b7e67a577476b60b0a3"
+      "sha1": "bdf2664a9c266bc275de77b91eb7fc3b7f7d37a3"
     },
     {
       "path": "overrides/config/lootr-common.toml",
-      "sha1": "0e897fca2fb1622001ee1479f5b6ff0cfe0e3267"
+      "sha1": "75f3b1a4077723da0cc20857f32b88ad725cade8"
     },
     {
       "path": "overrides/config/map_atlases-client.toml",
@@ -1602,7 +1602,7 @@
     },
     {
       "path": "overrides/config/mezz_config/client/default/settings.ini",
-      "sha1": "1f22cd48de02f98b8deda413d9f51a9b520e787c"
+      "sha1": "37c6c10d605efbf78119e1fea0d6d0b06ba9ca77"
     },
     {
       "path": "overrides/config/midnightlib.json",
@@ -1622,7 +1622,7 @@
     },
     {
       "path": "overrides/config/moonlight-client.toml",
-      "sha1": "19f7d0b2a4b6010de875446aa41d51734fb31b40"
+      "sha1": "e88b87fb5f58e4f6b55b5f41abac3dadf1d62860"
     },
     {
       "path": "overrides/config/moonlight-common.toml",
@@ -1638,7 +1638,7 @@
     },
     {
       "path": "overrides/config/mynethersdelight-common.toml",
-      "sha1": "b6f2bb553bc9ed6312e0fa5258958a6486cac7d0"
+      "sha1": "94fa84d87cf480226612ea801ba45a563a737b8d"
     },
     {
       "path": "overrides/config/naturescompass-client.toml",
@@ -1654,7 +1654,7 @@
     },
     {
       "path": "overrides/config/neoforge-common.toml",
-      "sha1": "5a9caac83eb118eaf22abc37389f7b743e475fe1"
+      "sha1": "2e904b9a9bf2c03e8dfe4d0b3b43dee9965c062b"
     },
     {
       "path": "overrides/config/neoforge-server.toml",
@@ -1690,11 +1690,11 @@
     },
     {
       "path": "overrides/config/parcool-animation.toml",
-      "sha1": "34a8626a995fa8060ad5b3ae7e4a9255ee7bfbaa"
+      "sha1": "4b692b18b96835c2e375b14a17f7c779ba5a873b"
     },
     {
       "path": "overrides/config/parcool-client.toml",
-      "sha1": "e3e43cf28c3da85808cda260bf65c029e085d793"
+      "sha1": "b925d6d6de3304afc78ac755c1da29467d8f3d54"
     },
     {
       "path": "overrides/config/particle_effects.json5",
@@ -1702,7 +1702,7 @@
     },
     {
       "path": "overrides/config/pickupnotifier/pickupnotifier-client.toml",
-      "sha1": "4982f189fc8040c13eb135ce33aa364492fd788e"
+      "sha1": "9d0ff551f71c58b5fe12068c446e8c85a7b5019c"
     },
     {
       "path": "overrides/config/ponder-client.toml",
@@ -1714,11 +1714,11 @@
     },
     {
       "path": "overrides/config/progresspeek.toml",
-      "sha1": "fae6597efed0c4193e686430802021f08f6c7078"
+      "sha1": "8eb3dfe0b6a195c0877a043314c8ca14022205d7"
     },
     {
       "path": "overrides/config/quark-common.toml",
-      "sha1": "928659eb92ea7edab8e690f6f6d812e423a57304"
+      "sha1": "ab7dadbe1bfc2953bd19f868bf4dd8189f4318c7"
     },
     {
       "path": "overrides/config/quick-pack.json",
@@ -1726,7 +1726,7 @@
     },
     {
       "path": "overrides/config/railways-client.toml",
-      "sha1": "265f95249de84c74a25cfb2b8dbaa76964e1ada4"
+      "sha1": "e5ef761cc2ea65c879c20e683b63126e208172fe"
     },
     {
       "path": "overrides/config/railways-common.toml",
@@ -1786,15 +1786,15 @@
     },
     {
       "path": "overrides/config/sablejade-client.toml",
-      "sha1": "e1e08f16467b8c4fcbf39e97f8dea6c2e14eb787"
+      "sha1": "1104fab64a9cb4c61351ce8896efb8a383f69cbc"
     },
     {
       "path": "overrides/config/scholar-client.toml",
-      "sha1": "cb144a8c97f525d725737c075e15035c4315e659"
+      "sha1": "dad0cfebc553de068ed71d485c24dd4e21632d74"
     },
     {
       "path": "overrides/config/scholar-common.toml",
-      "sha1": "0c3c236d1b068b002c7001a52c3ef984531b7dc8"
+      "sha1": "fe31aa7a7d12cb568abbcf3959b17f1e86c85ad6"
     },
     {
       "path": "overrides/config/seamless_loading_screen.json",
@@ -1858,7 +1858,7 @@
     },
     {
       "path": "overrides/config/sodium-extra-options.json",
-      "sha1": "1b7271f0931481035f3d6df2bdaa786e252130bb"
+      "sha1": "898f265dfaad22307b89f83362790e0ac6aee0b7"
     },
     {
       "path": "overrides/config/sodium-extra.properties",
@@ -1894,23 +1894,23 @@
     },
     {
       "path": "overrides/config/sound_physics_aeronautics/occlusion.properties",
-      "sha1": "9fb65f17f2e44b58bee5e3ecc005157bdaa38efb"
+      "sha1": "b9b2a2189cd8db42defa1415b3ff1715d217aa01"
     },
     {
       "path": "overrides/config/sound_physics_aeronautics/propeller_occlusion_overrides.properties",
-      "sha1": "7c601d46307eacb50b4aa8a4b4cb27e1bf9cb966"
+      "sha1": "b6845a6693264b05727b70515972e8c248145747"
     },
     {
       "path": "overrides/config/sound_physics_aeronautics/reflectivity.properties",
-      "sha1": "0fdb66cdf6ea4ed19ea68a59b1040602aad16418"
+      "sha1": "8c9ac9f5a3abe557493722dae5ecd7120b3d750a"
     },
     {
       "path": "overrides/config/sound_physics_aeronautics/sound_rates.properties",
-      "sha1": "8a0558fe8bd6d2e606c412ce41dbc3a5a8c9c1f1"
+      "sha1": "2e193eb8d7129344ab56abc909ba4c3c220871e0"
     },
     {
       "path": "overrides/config/sound_physics_aeronautics/soundphysics.properties",
-      "sha1": "c5176721798aebefb703f2c3e300ce5bc7f2c768"
+      "sha1": "f8647c622a1db20179b39468f80b8e544298f84b"
     },
     {
       "path": "overrides/config/sounds/chat.json",
@@ -1942,7 +1942,7 @@
     },
     {
       "path": "overrides/config/ssrd-common.toml",
-      "sha1": "f7acc95333d1432abe635649169eea8a07b6913d"
+      "sha1": "3c0d36969506db5967bcc40792d30c6b377949cc"
     },
     {
       "path": "overrides/config/statuseffectbars-common.toml",
@@ -1958,15 +1958,15 @@
     },
     {
       "path": "overrides/config/supplementaries-client.toml",
-      "sha1": "c82fc7e32c351763c22dd49d0ee36bf01fd04d08"
+      "sha1": "1dfd544513caed5ae1c59d1efb71b27615a1ed08"
     },
     {
       "path": "overrides/config/supplementaries-common.toml",
-      "sha1": "61e06dc3232676594f3c1f798057ce3c9038eb05"
+      "sha1": "33f03dbebb4f1aaaab5a66b9be8cca07b6ecc65b"
     },
     {
       "path": "overrides/config/toadlib_config.txt",
-      "sha1": "f02c2691ddc3a58cbafd147aeceb0433b3556a11"
+      "sha1": "7b79e9929c435197b3fdda8956ea9af7adf78c98"
     },
     {
       "path": "overrides/config/transition.json",
@@ -1982,15 +1982,15 @@
     },
     {
       "path": "overrides/config/voicechat/category-volumes.properties",
-      "sha1": "8416bbe0743249676e7ebadf8905f06bc3f7d6ac"
+      "sha1": "c9f8fd05a81e609071657f5c4c27d5cd377c5b12"
     },
     {
       "path": "overrides/config/voicechat/player-volumes.properties",
-      "sha1": "7dfbbc24e0f07706c5f2f837c6acb2510e5140ae"
+      "sha1": "c77eeb6fb16c2844e9bbcf19667d30c9401212d5"
     },
     {
       "path": "overrides/config/voicechat/translations.properties",
-      "sha1": "51ed6d74ce390b2219a85fb3cfdad19c85039d79"
+      "sha1": "383e00e7dd0d5f00daa2ffcfd24c939d255dc7e3"
     },
     {
       "path": "overrides/config/voicechat/username-cache.json",
@@ -1998,11 +1998,11 @@
     },
     {
       "path": "overrides/config/voicechat/voicechat-client.properties",
-      "sha1": "4653f50e733848d66e11a823576025dfcf2a1ff5"
+      "sha1": "765bbbda6f17b85c5753b01c63f63fd7c32b224f"
     },
     {
       "path": "overrides/config/voicechat/voicechat-server.properties",
-      "sha1": "9025f82beda279425f44cbd069f6889d31f0e88b"
+      "sha1": "46e539b9a3a6ec8973c91a58d053566c980af500"
     },
     {
       "path": "overrides/config/xaero/lib/client.cfg",
@@ -2066,7 +2066,7 @@
     },
     {
       "path": "overrides/config/xaerohud.txt",
-      "sha1": "7235e01cb97f766d1411ce97cdf65329297093c2"
+      "sha1": "9b2b47ea69e26908152d7ed1c6f90222745dced0"
     },
     {
       "path": "overrides/config/xaeropatreon.txt",
@@ -2086,11 +2086,11 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "3a995107036f88a5e8bac3135c739d4c55af5730"
+      "sha1": "76870ef4193a8c06dbc990bc1a7c7b6c269ad5fb"
     },
     {
       "path": "overrides/config/zoom-client.toml",
-      "sha1": "4bcdfa2b63851adfc30a3204289b636246d84d10"
+      "sha1": "8408844617db716432b81aef2c9314f9746d3af0"
     },
     {
       "path": "overrides/config/zume.json5",
@@ -2122,7 +2122,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "c2e80aeda7bd089ab0ee57ad17aeb431faf20200"
+      "sha1": "067a92e3030c1ac7328cdf3dd103ef4897c5caff"
     },
     {
       "path": "overrides/resourcepacks/Visual Effects+.zip",
