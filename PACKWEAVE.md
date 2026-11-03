@@ -1,6 +1,6 @@
 # UNIX$like.mc
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 191 mods (14 dependencies), 6 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.265**, 193 mods (14 dependencies), 6 resource packs, 1 shader
 
 ## Contents
 
@@ -59,6 +59,7 @@
 - [Create: Prismatic Shine](https://modrinth.com/project/create-prismatic-shine) `1.2.2`
 - [Create: Shuffle Filter](https://modrinth.com/project/create-shuffle-filter) `2.2.0`
 - [Create: Sky Village](https://modrinth.com/project/create-sky-village) `0.0.38`
+- [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `5.0.0+1.21.0.neoforge`
 - [Cut Through](https://modrinth.com/project/cut-through) `v21.1.0-1.21.1-NeoForge`
 - [Detail Armor Bar Reconstructed](https://modrinth.com/project/detail-armor-bar-reconstructed) `5.3.3-alpha.1`
 - [Ding](https://modrinth.com/project/ding) `1.5.0`
@@ -144,6 +145,7 @@
 - [Presence Footsteps (NeoForge)](https://modrinth.com/project/pf-neoforge) `1.21.1-1.12.0-beta.1`
 - [Prickle](https://modrinth.com/project/prickle) `21.1.11`
 - [Progress Peek](https://modrinth.com/project/progresspeek) `1.2.1+1.21.1-neoforge`
+- [Proxy Compatible Forge](https://modrinth.com/project/proxy-compatible-forge) `1.3.1`
 - [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `21.1.66`
 - [Quark](https://modrinth.com/project/quark) `4.1-488`
 - [quick pack](https://modrinth.com/project/quick-pack) `neoforge-1.5.1+1.21.1`

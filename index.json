@@ -217,6 +217,10 @@
       "sha1": "eec74811b356026c0277cb0835a53f8f056be539"
     },
     {
+      "path": "content/mods/cubes-without-borders.json",
+      "sha1": "644c0b3baf5a696b7a40fa002b7a874b6b404ab7"
+    },
+    {
       "path": "content/mods/curios.json",
       "sha1": "cb2e8443b8cd62b2f7b522890a182a5cdb3cd726"
     },
@@ -559,6 +563,10 @@
     {
       "path": "content/mods/progresspeek.json",
       "sha1": "d4be52f7d42cd5847c2a14b97d767564475141fe"
+    },
+    {
+      "path": "content/mods/proxy-compatible-forge.json",
+      "sha1": "37996d3e39a6c2c156337e048e0c48d8963b3698"
     },
     {
       "path": "content/mods/puzzles-lib.json",
