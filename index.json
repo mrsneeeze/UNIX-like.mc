@@ -2117,14 +2117,6 @@
       "sha1": "4b3e0a6318cc7e197e49acbe3b4d346a7b84a4dd"
     },
     {
-      "path": "overrides/options.txt",
-      "sha1": "c2e80aeda7bd089ab0ee57ad17aeb431faf20200"
-    },
-    {
-      "path": "overrides/resourcepacks/Visual Effects+.zip",
-      "sha1": "77c0701e2bf82d7a0c8955c384329a64f5f22014"
-    },
-    {
       "path": "overrides/servers.dat",
       "sha1": "2340bfc426543dbb3d685a8e2692da9cb1bf8661"
     }

@@ -4,7 +4,6 @@
 .pack-local.json
 
 # minecraft
-overrides/config/
 overrides/saves/
 overrides/backups/
 overrides/logs/
