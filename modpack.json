@@ -1,6 +1,6 @@
 {
   "name": "UNIX$like.mc",
-  "version": "1.0.9.2",
+  "version": "1.0.9.3",
   "minecraft": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.265",

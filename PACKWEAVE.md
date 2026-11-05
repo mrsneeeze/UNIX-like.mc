@@ -1,6 +1,6 @@
 # UNIX$like.mc
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 192 mods (14 dependencies), 6 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.265**, 191 mods (14 dependencies), 6 resource packs, 1 shader
 
 ## Contents
 
@@ -34,7 +34,6 @@
 - [Companion 🐕](https://modrinth.com/project/companion) `6.3.0+neoforge`
 - [Complementary Shaders - Reimagined](https://modrinth.com/project/complementary-reimagined) `r5.9.3`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.3.0+alpha.0.93+1.21.1`
-- [Configured Defaults](https://modrinth.com/project/configured-defaults) `v21.1.3-1.21.1-NeoForge`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
