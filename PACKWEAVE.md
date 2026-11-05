@@ -1,6 +1,6 @@
 # UNIX$like.mc
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 193 mods (14 dependencies), 6 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.265**, 192 mods (14 dependencies), 6 resource packs, 1 shader
 
 ## Contents
 
@@ -26,7 +26,6 @@
 - [Bosses'Rise](https://modrinth.com/project/bossesrise) `2.1.2`
 - [Brick & Mortar](https://modrinth.com/project/brick-and-mortar) `1.3.1-1.21.1-neoforge`
 - [Carry On](https://modrinth.com/project/carry-on) `2.2.6`
-- [Carry On + Create Aeronautics Compat](https://modrinth.com/project/carryon-aeronautics-compat) `1.1.1`
 - [Cerulean](https://modrinth.com/project/cerulean-advancements) `neoforge-1.21.1-1.0.0`
 - [Chat Heads](https://modrinth.com/project/chat-heads) `0.15.7`
 - [Chunky](https://modrinth.com/project/chunky) `1.4.23`
