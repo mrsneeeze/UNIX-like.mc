@@ -1,6 +1,6 @@
 # UNIX$like.mc
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 190 mods (14 dependencies), 6 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.265**, 191 mods (14 dependencies), 6 resource packs, 1 shader
 
 ## Contents
 
@@ -187,6 +187,7 @@
 - [TxniLib](https://modrinth.com/project/txnilib) `neoforge-1.21.1-1.0.24`
 - [Updating World Icon](https://modrinth.com/project/updating-world-icon) `1.0.1`
 - [Wizards (RPG Series)](https://modrinth.com/project/wizards) `3.1.3+1.21.1-neoforge`
+- [WorldEdit](https://modrinth.com/project/worldedit) `7.3.8`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.6.0`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.47.0`
 - [Yeetus Experimentus](https://modrinth.com/project/yeetus-experimentus) `87.0.0`

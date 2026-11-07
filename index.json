@@ -757,6 +757,10 @@
       "sha1": "782a4bd6e0ee22275ffad6c3098e2c3988c69506"
     },
     {
+      "path": "content/mods/worldedit.json",
+      "sha1": "50d94b06fb277ffc0b946515fc5da0fdcfd8b1d6"
+    },
+    {
       "path": "content/mods/xaeros-minimap.json",
       "sha1": "1b13e2f1961c715ee8498afa8bebe6319ea4cbef"
     },
