@@ -1,6 +1,6 @@
 # UNIX$like.mc
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 191 mods (14 dependencies), 6 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.265**, 190 mods (14 dependencies), 6 resource packs, 1 shader
 
 ## Contents
 
@@ -64,7 +64,6 @@
 - [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.3.3-1.21.1`
 - [Distracting Trims](https://modrinth.com/project/distracting-trims) `21.1.1`
 - [Dynamic FPS](https://modrinth.com/project/dynamic-fps) `3.11.4`
-- [e4mc](https://modrinth.com/project/e4mc) `6.2.3-neoforge`
 - [Easy Anvils](https://modrinth.com/project/easy-anvils) `v21.1.0-1.21.1-NeoForge`
 - [Eating Animations](https://modrinth.com/project/eating-animations) `6.0.1`
 - [EclipseUI](https://modrinth.com/project/eclipseui) `1.0.5+mc1.21.1-neoforge`
