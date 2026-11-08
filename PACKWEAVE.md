@@ -1,6 +1,6 @@
 # UNIX$like.mc
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 192 mods (14 dependencies), 6 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.265**, 193 mods (15 dependencies), 6 resource packs, 1 shader
 
 ## Contents
 
@@ -84,6 +84,7 @@
 - [Fresh Animations: Objects](https://modrinth.com/project/fresh-animations-objects) `2.1.2`
 - [Fresh Animations: Player Extension](https://modrinth.com/project/fa-player-extension) `1.1.0`
 - [Fresh Animations: Quivers](https://modrinth.com/project/fresh-animations-quivers) `2.3.0`
+- FTB Ultimine (NeoForge) `[NEOFORGE][1.21.1] FTB Ultimine 2101.1.15` (curseforge)
 - [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.7+fix1+1.21+neoforge`
 - [GPUBooster](https://modrinth.com/project/gputape) `1.3.2-1.21-1.21.1-neo`
 - [GroovyModLoader (GML)](https://modrinth.com/project/gml) `6.0.2`

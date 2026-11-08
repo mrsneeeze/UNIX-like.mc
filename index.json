@@ -313,6 +313,14 @@
       "sha1": "081f383ca3f82b3da171108895b225fd57943d5f"
     },
     {
+      "path": "content/mods/ftb-library-forge.json",
+      "sha1": "f823d441389fa22c2f88f3529d12238a515d9ea2"
+    },
+    {
+      "path": "content/mods/ftb-ultimine-forge.json",
+      "sha1": "d248386ba307eac98807db3e9f907a8b976b4c2b"
+    },
+    {
       "path": "content/mods/fzzy-config.json",
       "sha1": "835d509bb530df11a62eecf2c77e33c4baba3464"
     },
