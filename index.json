@@ -189,6 +189,10 @@
       "sha1": "722b2e17da66d8d9b5014365ec6486fb181bc441"
     },
     {
+      "path": "content/mods/create-propulsion-simulated.json",
+      "sha1": "96bdbdb77fdd11821d2e58159864130209b46a1f"
+    },
+    {
       "path": "content/mods/create-shuffle-filter.json",
       "sha1": "57bc450bd57e54fef286e6261974a54f8a3e98dc"
     },
