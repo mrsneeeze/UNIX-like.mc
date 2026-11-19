@@ -1,6 +1,6 @@
 # UNIX$like.mc
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 214 mods (18 dependencies), 5 resource packs, 1 shader
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 213 mods (18 dependencies), 5 resource packs, 1 shader
 
 ## Contents
 
@@ -142,7 +142,6 @@
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [My Nether's Delight](https://modrinth.com/project/my-nethers-delight) `1.10.4.1`
 - [Neo Bee Fix](https://modrinth.com/project/neo-bee-fix) `2.0.1`
-- [NeoLogin](https://modrinth.com/project/neologin) `1.1.2`
 - [NetherPortalFix](https://modrinth.com/project/netherportalfix) `21.1.1+neoforge-1.21.1`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
 - [No Chat Restrictions](https://modrinth.com/project/no-chat-restrictions) `NeoForge-MC1.21.11-v1.1.0`
