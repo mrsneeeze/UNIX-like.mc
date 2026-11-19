@@ -1,0 +1,23 @@
+{
+  "name": "Chunks fade in",
+  "side": "client",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "JaNmzvA8",
+      "slug": "chunks-fade-in",
+      "versionId": "XmAhOrYE",
+      "versionNumber": "v3.0.26-1.21-neoforge",
+      "filename": "chunksfadein-neoforge-3.0.26-1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/JaNmzvA8/versions/XmAhOrYE/chunksfadein-neoforge-3.0.26-1.21.jar",
+      "sha1": "2544c305a682f29fe170564582a77121365833fd",
+      "sha512": "4ffa71b146ef8959530d1612c9b370e101b43b72a46c81a838765ea62b318d8ae10988487d6b9b03b01aacf1de7a5f48cc690827f214b513fc86976a9a308cb4",
+      "fileSize": 674876
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,14 @@
+{
+	"healingcampfire": {
+		"collective_list": true,
+		"mod_config": true
+	},
+	"nohostilesaroundcampfire": {
+		"collective_list": true,
+		"mod_config": true
+	},
+	"treeharvester": {
+		"collective_list": true,
+		"mod_config": true
+	}
+}

@@ -1,0 +1,23 @@
+{
+  "name": "PAUCAL",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "TZo2wHFe",
+      "slug": "paucal",
+      "versionId": "zgpdzVKd",
+      "versionNumber": "0.7.0",
+      "filename": "paucal-0.7.0+neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/TZo2wHFe/versions/zgpdzVKd/paucal-0.7.0%2Bneoforge-1.21.1.jar",
+      "sha1": "1cd24d54fda9916d8c1671a72dfde1789184d89a",
+      "sha512": "49364da2d43ddbab5533300a2da0163ff6328f2680111efb2128822a497abd94c9c770b8844b21aabc57b77b8b275ae50cc2f922462cf44322b58cf4916ae467",
+      "fileSize": 257735
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

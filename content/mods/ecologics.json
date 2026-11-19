@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "NCKpPR0Z",
       "slug": "ecologics",
-      "versionId": "SJySxVHt",
-      "versionNumber": "2.3.9-NeoForge",
-      "filename": "Ecologics-NeoForge-1.21.1-2.3.9.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/NCKpPR0Z/versions/SJySxVHt/Ecologics-NeoForge-1.21.1-2.3.9.jar",
-      "sha1": "a2e6abb2fae7e7100d50130cbd31013e236e218f",
-      "sha512": "7985e33f4b261ec6693ceebef18223ec95fc88dc84a7f83bdd53b83ddb1675e0802abf3b4208c88a43718b8c40246defb682844c269f87ac1a89f4bc75d4fb87",
-      "fileSize": 2156060
+      "versionId": "mlotRe9X",
+      "versionNumber": "2.3.11-NeoForge",
+      "filename": "Ecologics-NeoForge-1.21.1-2.3.11.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NCKpPR0Z/versions/mlotRe9X/Ecologics-NeoForge-1.21.1-2.3.11.jar",
+      "sha1": "88881b163f480dd105770ca79b471e61e0de9ae2",
+      "sha512": "8b7aca44d6f8ec8ed3c429d44a4e340862ea9c0d1a900602c9780b17350dc1cb4631a25c060182db3ac1bbcde8116c91f4b58c4266ea6aa2cf6b5e3a875409f5",
+      "fileSize": 2184245
     }
   },
   "dependents": [],

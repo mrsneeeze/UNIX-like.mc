@@ -1,6 +1,6 @@
 {
   "name": "Presence Footsteps (NeoForge)",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",

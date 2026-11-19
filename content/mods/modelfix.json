@@ -1,6 +1,6 @@
 {
   "name": "Model Gap Fix",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",

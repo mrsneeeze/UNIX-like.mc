@@ -1,8 +1,9 @@
 {
   "name": "Fast Noise",
-  "side": "auto",
+  "side": "server",
   "explicit": true,
   "disabled": false,
+  "pinned": true,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {

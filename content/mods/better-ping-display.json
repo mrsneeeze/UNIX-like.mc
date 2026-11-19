@@ -1,6 +1,6 @@
 {
   "name": "Better Ping Display [Forge/NeoForge]",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",

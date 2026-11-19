@@ -1,6 +1,6 @@
 {
   "name": "Screenshot to Clipboard",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",

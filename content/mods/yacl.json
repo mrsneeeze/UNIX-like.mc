@@ -1,6 +1,6 @@
 {
   "name": "YetAnotherConfigLib (YACL)",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
@@ -22,9 +22,10 @@
     "IyHq05yB"
   ],
   "optionalDependents": [
+    "ETlrkaYF",
     "PLAGcSFJ",
     "xVwaUG1g"
   ],
   "clientSide": "optional",
-  "serverSide": "optional"
+  "serverSide": "unsupported"
 }

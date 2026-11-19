@@ -1,8 +1,9 @@
 {
   "name": "Load My F***ing Tags",
-  "side": "auto",
+  "side": "server",
   "explicit": true,
   "disabled": false,
+  "pinned": true,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {

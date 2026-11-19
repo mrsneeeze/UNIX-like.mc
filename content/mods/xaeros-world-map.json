@@ -1,6 +1,6 @@
 {
   "name": "Xaero's World Map",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
@@ -19,5 +19,5 @@
   },
   "dependents": [],
   "clientSide": "required",
-  "serverSide": "optional"
+  "serverSide": "unsupported"
 }

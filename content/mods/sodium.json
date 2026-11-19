@@ -1,6 +1,6 @@
 {
   "name": "Sodium",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
@@ -19,6 +19,7 @@
   },
   "dependents": [
     "Bh37bMuy",
+    "JaNmzvA8",
     "PtjYWJkn",
     "YL57xq9U",
     "fJ183v3D",

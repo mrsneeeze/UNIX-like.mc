@@ -1,6 +1,6 @@
 {
   "name": "Stylish Effects",
-  "side": "auto",
+  "side": "client",
   "explicit": false,
   "disabled": false,
   "preferred": "modrinth",

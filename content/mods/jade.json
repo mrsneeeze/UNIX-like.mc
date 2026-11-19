@@ -1,6 +1,6 @@
 {
   "name": "Jade 🔍",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
@@ -23,5 +23,5 @@
     "xuDOzCLy"
   ],
   "clientSide": "optional",
-  "serverSide": "optional"
+  "serverSide": "unsupported"
 }

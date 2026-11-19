@@ -1,6 +1,6 @@
 {
   "name": "More Culling",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",

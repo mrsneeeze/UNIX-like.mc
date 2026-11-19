@@ -1,6 +1,6 @@
 {
   "name": "Just Enough Breeding (JEBr)",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",

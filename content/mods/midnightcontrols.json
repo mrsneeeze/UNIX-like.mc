@@ -1,0 +1,23 @@
+{
+  "name": "MidnightControls",
+  "side": "client",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "bXX9h73M",
+      "slug": "midnightcontrols",
+      "versionId": "oz41N6Dp",
+      "versionNumber": "1.10.0.1-neoforge",
+      "filename": "midnightcontrols-neoforge-1.10.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/bXX9h73M/versions/oz41N6Dp/midnightcontrols-neoforge-1.10.0.1.jar",
+      "sha1": "21c3ca3da1ad6d093bb8d04b7da5c61ddf797e01",
+      "sha512": "01b0298950c02b860a9bcf2debe96a755d7ad221327513db330679e51bd333bec13f33dd5a869c7c5c663520dc7aed2e519236159aed081e14b74c06f829d968",
+      "fileSize": 695855
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

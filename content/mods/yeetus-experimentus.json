@@ -1,6 +1,6 @@
 {
   "name": "Yeetus Experimentus",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",

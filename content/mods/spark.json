@@ -1,6 +1,6 @@
 {
   "name": "spark",
-  "side": "auto",
+  "side": "server",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
@@ -18,6 +18,6 @@
     }
   },
   "dependents": [],
-  "clientSide": "optional",
+  "clientSide": "unsupported",
   "serverSide": "optional"
 }

@@ -1,6 +1,6 @@
 {
   "name": "Iris Shaders",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
@@ -22,6 +22,7 @@
   ],
   "optionalDependents": [
     "Bh37bMuy",
+    "JaNmzvA8",
     "PtjYWJkn"
   ],
   "clientSide": "required",

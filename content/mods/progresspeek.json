@@ -1,6 +1,6 @@
 {
   "name": "Progress Peek",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "1A2XNzUB",
       "slug": "progresspeek",
-      "versionId": "hJZXeDds",
-      "versionNumber": "1.2.1+1.21.1-neoforge",
-      "filename": "progresspeek-1.2.1+1.21.1-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/1A2XNzUB/versions/hJZXeDds/progresspeek-1.2.1%2B1.21.1-neoforge.jar",
-      "sha1": "3343ef2afad4bd19b4d25fdef8e032664637c045",
-      "sha512": "cb3b36ae53d7a6a385b0b5c0a9926f3270e2a5caffb38e144333e1ae7d6e5f077a09700f45cb2a4bc947d457c0df11a93a997bbb79d080d74c36b0f34a30eca1",
-      "fileSize": 1117589
+      "versionId": "Rj24NHA2",
+      "versionNumber": "1.2.2+1.21.1-neoforge",
+      "filename": "progresspeek-1.2.2+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1A2XNzUB/versions/Rj24NHA2/progresspeek-1.2.2%2B1.21.1-neoforge.jar",
+      "sha1": "e6ebcdb8b05ab02b00ae31340139d417fd22be4d",
+      "sha512": "83b7fd39bc87f00afc2a8b576f07ddb74f69308df0e96862bd691d954c72761f218256d8363aa1be5338ad63e212f9261f3c26eb6b43f814a872b8b7a3071448",
+      "fileSize": 1117658
     }
   },
   "dependents": [],

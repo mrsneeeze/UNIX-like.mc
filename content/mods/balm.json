@@ -1,6 +1,6 @@
 {
   "name": "Balm",
-  "side": "auto",
+  "side": "server",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
@@ -20,6 +20,6 @@
   "dependents": [
     "nPZr02ET"
   ],
-  "clientSide": "optional",
+  "clientSide": "unsupported",
   "serverSide": "optional"
 }

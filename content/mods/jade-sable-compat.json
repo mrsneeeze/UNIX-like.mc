@@ -1,6 +1,6 @@
 {
   "name": "Jade Sable Compat",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",

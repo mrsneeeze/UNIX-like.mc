@@ -1,0 +1,23 @@
+{
+  "name": "No Chat Restrictions",
+  "side": "client",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "z440MEwJ",
+      "slug": "no-chat-restrictions",
+      "versionId": "8rgi2fn1",
+      "versionNumber": "NeoForge-MC1.21.11-v1.1.0",
+      "filename": "NoChatRestrictions-NeoForge-MC1.21.11-v1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/z440MEwJ/versions/8rgi2fn1/NoChatRestrictions-NeoForge-MC1.21.11-v1.1.0.jar",
+      "sha1": "658c8f4014c98f602408c93dba3fb78cac963683",
+      "sha512": "ac324936e887c04f838c42478767510c3d61e8213c52e0b656756f22d3944cb853beb3d26157733220d5512b6998b959496d1f70da8e7ebf82b1afb5b09590b0",
+      "fileSize": 13094
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,6 +1,6 @@
 {
   "name": "Fast IP Ping",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
