@@ -1,6 +1,6 @@
 # UNIX$like.mc
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 217 mods (18 dependencies), 5 resource packs, 1 shader
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 216 mods (18 dependencies), 5 resource packs, 1 shader
 
 ## Contents
 
@@ -14,7 +14,6 @@
 - [Another Furniture](https://modrinth.com/project/another-furniture) `4.0.3`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Archers (RPG Series)](https://modrinth.com/project/archers) `3.1.3+1.21.1-neoforge`
-- [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
 - [Armor Statues](https://modrinth.com/project/armor-statues) `v21.1.0-1.21.1-NeoForge`
 - [Async Logger](https://modrinth.com/project/asynclogger) `2.2.3+1.21.1-neoforge`
 - [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.4.10`
