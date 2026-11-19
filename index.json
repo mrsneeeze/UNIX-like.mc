@@ -125,10 +125,6 @@
       "sha1": "749e03f31acd100968b0e1283725d78e7ea6be18"
     },
     {
-      "path": "content/mods/chunks-fade-in.json",
-      "sha1": "f79bf5bd6d2377d123fb2dafec89a0c493d4da93"
-    },
-    {
       "path": "content/mods/cloth-config.json",
       "sha1": "26f91c13dbd9249688ecbd6f96e1ed555ca678a0"
     },
@@ -402,7 +398,7 @@
     },
     {
       "path": "content/mods/iris.json",
-      "sha1": "c55f2aed78f4af7a8e20ac23ac0ea914d256b023"
+      "sha1": "84cf15ff415fc885e41ad0fcf96f3b61140b831e"
     },
     {
       "path": "content/mods/item-obliterator.json",
@@ -778,7 +774,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "4aac1bb3020bced1104b0730730332845e7af8ae"
+      "sha1": "8b1039350cfa367aaaea243c20197089609fae76"
     },
     {
       "path": "content/mods/sophisticated-backpacks.json",

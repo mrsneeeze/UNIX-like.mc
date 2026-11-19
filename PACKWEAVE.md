@@ -1,6 +1,6 @@
 # UNIX$like.mc
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 215 mods (18 dependencies), 5 resource packs, 1 shader
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 214 mods (18 dependencies), 5 resource packs, 1 shader
 
 ## Contents
 
@@ -31,7 +31,6 @@
 - [Cerulean](https://modrinth.com/project/cerulean-advancements) `neoforge-1.21.1-1.0.0`
 - [Chat Animation [Smooth Chat]](https://modrinth.com/project/chatanimation) `1.3.5+neoforge-1.21`
 - [Chat Heads](https://modrinth.com/project/chat-heads) `0.15.7`
-- [Chunks fade in](https://modrinth.com/project/chunks-fade-in) `v3.0.26-1.21-neoforge`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
 - [Collective](https://modrinth.com/project/collective) `1.21.1-8.87-fabric+forge+neo`
