@@ -40,6 +40,7 @@
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.3.0+alpha.0.93+1.21.1`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
+- [Cosmetic Armor Reworked Forked](https://modrinth.com/project/cosmetic-armor-reworked-forked) `1.21.1-0.0.4`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
 - [Create Aeronautics: Portable Engine Liquid Fuel](https://modrinth.com/project/create-aeronautics-portable-engine-liquid-fuel) `2.0.0`
@@ -65,7 +66,6 @@
 - [Create: Prismatic Shine](https://modrinth.com/project/create-prismatic-shine) `1.2.2`
 - [Create: Shuffle Filter](https://modrinth.com/project/create-shuffle-filter) `2.2.0`
 - [Create: Sky Village](https://modrinth.com/project/create-sky-village) `0.0.38`
-- [CreateBetterFps](https://modrinth.com/project/createbetterfps) `1.1.5`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `5.0.0+1.21.0.neoforge`
 - [Cut Through](https://modrinth.com/project/cut-through) `v21.1.0-1.21.1-NeoForge`
 - [Detail Armor Bar Reconstructed](https://modrinth.com/project/detail-armor-bar-reconstructed) `5.3.3-alpha.1`

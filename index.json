@@ -157,6 +157,10 @@
       "sha1": "f19aa4c6bf13922364faaff0d822c5271c5cf52a"
     },
     {
+      "path": "content/mods/cosmetic-armor-reworked-forked.json",
+      "sha1": "829a7093ff584b789fb58cfa36c3f26fa262afc0"
+    },
+    {
       "path": "content/mods/create-aeronautics-portable-engine-liquid-fuel.json",
       "sha1": "8564f8f668ff2eeacaa93ac5cd4e8a4559eeb310"
     },
@@ -243,10 +247,6 @@
     {
       "path": "content/mods/create.json",
       "sha1": "414c481c9c8e99907311c9d2d5185c75eaba143a"
-    },
-    {
-      "path": "content/mods/createbetterfps.json",
-      "sha1": "56f62941b447c306a0179d02c0b136181f1cd1f2"
     },
     {
       "path": "content/mods/cubes-without-borders.json",
